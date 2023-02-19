@@ -1,6 +1,4 @@
-/*
-Dilara KARATAŞ 02200201044
- */
+
 package minheap;
 
 
